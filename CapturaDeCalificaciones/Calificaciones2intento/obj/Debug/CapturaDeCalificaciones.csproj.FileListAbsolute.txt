@@ -7,3 +7,6 @@ D:\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\CapturaDeCalificacio
 D:\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.Form1.resources
 D:\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.Properties.Resources.resources
 D:\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\CapturaDeCalificaciones.csproj.GenerateResource.Cache
+C:\Users\Melissa Flores\Desktop\CapturaDeCalificaciones\Calificaciones2intento\bin\Debug\Calificaciones2intento.exe.config
+C:\Users\Melissa Flores\Desktop\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.exe
+C:\Users\Melissa Flores\Desktop\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.pdb
