@@ -1,0 +1,9 @@
+D:\CapturaDeCalificaciones\Calificaciones2intento\bin\Debug\Calificaciones2intento.exe.config
+D:\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.exe
+D:\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.pdb
+D:\CapturaDeCalificaciones\Calificaciones2intento\bin\Debug\Calificaciones2intento.exe
+D:\CapturaDeCalificaciones\Calificaciones2intento\bin\Debug\Calificaciones2intento.pdb
+D:\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\CapturaDeCalificaciones.csprojResolveAssemblyReference.cache
+D:\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.Form1.resources
+D:\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\Calificaciones2intento.Properties.Resources.resources
+D:\CapturaDeCalificaciones\Calificaciones2intento\obj\Debug\CapturaDeCalificaciones.csproj.GenerateResource.Cache
