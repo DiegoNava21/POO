@@ -1,0 +1,10 @@
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Recibo\Recibo\bin\Debug\Recibo.exe.config
+C:\Users\Melissa Flores\Desktop\Recibo\Recibo\bin\Debug\Recibo.exe.config
+C:\Users\Melissa Flores\Desktop\Recibo\Recibo\bin\Debug\Recibo.exe
+C:\Users\Melissa Flores\Desktop\Recibo\Recibo\bin\Debug\Recibo.pdb
+C:\Users\Melissa Flores\Desktop\Recibo\Recibo\obj\Debug\Recibo.csprojResolveAssemblyReference.cache
+C:\Users\Melissa Flores\Desktop\Recibo\Recibo\obj\Debug\Recibo.Form1.resources
+C:\Users\Melissa Flores\Desktop\Recibo\Recibo\obj\Debug\Recibo.Properties.Resources.resources
+C:\Users\Melissa Flores\Desktop\Recibo\Recibo\obj\Debug\Recibo.csproj.GenerateResource.Cache
+C:\Users\Melissa Flores\Desktop\Recibo\Recibo\obj\Debug\Recibo.exe
+C:\Users\Melissa Flores\Desktop\Recibo\Recibo\obj\Debug\Recibo.pdb
