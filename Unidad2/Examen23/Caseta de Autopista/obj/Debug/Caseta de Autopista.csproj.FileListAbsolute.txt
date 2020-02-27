@@ -1,0 +1,9 @@
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Examen23\Caseta de Autopista\bin\Debug\Caseta de Autopista.exe.config
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Examen23\Caseta de Autopista\obj\Debug\Caseta de Autopista.csprojResolveAssemblyReference.cache
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Examen23\Caseta de Autopista\obj\Debug\Caseta_de_Autopista.Form1.resources
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Examen23\Caseta de Autopista\obj\Debug\Caseta_de_Autopista.Properties.Resources.resources
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Examen23\Caseta de Autopista\obj\Debug\Caseta de Autopista.csproj.GenerateResource.Cache
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Examen23\Caseta de Autopista\bin\Debug\Caseta de Autopista.exe
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Examen23\Caseta de Autopista\bin\Debug\Caseta de Autopista.pdb
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Examen23\Caseta de Autopista\obj\Debug\Caseta de Autopista.exe
+C:\Users\Melissa Flores\Documents\Visual Studio 2015\Projects\Examen23\Caseta de Autopista\obj\Debug\Caseta de Autopista.pdb
