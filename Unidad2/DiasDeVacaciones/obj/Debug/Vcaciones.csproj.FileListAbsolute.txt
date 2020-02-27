@@ -1,0 +1,3 @@
+D:\DiasDeVacaciones\bin\Debug\DiasDeVacaciones.exe.config
+D:\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.exe
+D:\DiasDeVacaciones\obj\Debug\DiasDeVacaciones.pdb
