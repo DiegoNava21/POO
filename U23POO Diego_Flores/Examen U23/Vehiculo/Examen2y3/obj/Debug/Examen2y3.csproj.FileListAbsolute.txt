@@ -1,0 +1,21 @@
+C:\Users\LAB-SOFTWARE-03\Documents\Visual Studio 2015\Projects\Vehiculo\Examen2y3\bin\Debug\Examen2y3.exe.config
+C:\Users\LAB-SOFTWARE-03\Documents\Visual Studio 2015\Projects\Vehiculo\Examen2y3\bin\Debug\Examen2y3.exe
+C:\Users\LAB-SOFTWARE-03\Documents\Visual Studio 2015\Projects\Vehiculo\Examen2y3\bin\Debug\Examen2y3.pdb
+C:\Users\LAB-SOFTWARE-03\Documents\Visual Studio 2015\Projects\Vehiculo\Examen2y3\obj\Debug\Examen2y3.csprojResolveAssemblyReference.cache
+C:\Users\LAB-SOFTWARE-03\Documents\Visual Studio 2015\Projects\Vehiculo\Examen2y3\obj\Debug\Examen2y3.Form1.resources
+C:\Users\LAB-SOFTWARE-03\Documents\Visual Studio 2015\Projects\Vehiculo\Examen2y3\obj\Debug\Examen2y3.Properties.Resources.resources
+C:\Users\LAB-SOFTWARE-03\Documents\Visual Studio 2015\Projects\Vehiculo\Examen2y3\obj\Debug\Examen2y3.csproj.GenerateResource.Cache
+C:\Users\LAB-SOFTWARE-03\Documents\Visual Studio 2015\Projects\Vehiculo\Examen2y3\obj\Debug\Examen2y3.exe
+C:\Users\LAB-SOFTWARE-03\Documents\Visual Studio 2015\Projects\Vehiculo\Examen2y3\obj\Debug\Examen2y3.pdb
+F:\Vehiculo\Examen2y3\bin\Debug\Examen2y3.exe.config
+F:\Vehiculo\Examen2y3\obj\Debug\Examen2y3.exe
+F:\Vehiculo\Examen2y3\obj\Debug\Examen2y3.pdb
+F:\Vehiculo\Examen2y3\bin\Debug\Examen2y3.exe
+F:\Vehiculo\Examen2y3\bin\Debug\Examen2y3.pdb
+F:\Vehiculo\Examen2y3\obj\Debug\Examen2y3.csprojResolveAssemblyReference.cache
+F:\Vehiculo\Examen2y3\obj\Debug\Examen2y3.Form1.resources
+F:\Vehiculo\Examen2y3\obj\Debug\Examen2y3.Properties.Resources.resources
+F:\Vehiculo\Examen2y3\obj\Debug\Examen2y3.csproj.GenerateResource.Cache
+F:\U23POO Diego_Flores\Examen U23\Vehiculo\Examen2y3\bin\Debug\Examen2y3.exe.config
+F:\U23POO Diego_Flores\Examen U23\Vehiculo\Examen2y3\obj\Debug\Examen2y3.exe
+F:\U23POO Diego_Flores\Examen U23\Vehiculo\Examen2y3\obj\Debug\Examen2y3.pdb
