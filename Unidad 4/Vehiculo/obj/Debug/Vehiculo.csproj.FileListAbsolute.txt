@@ -1,0 +1,6 @@
+C:\Users\LAB-SOFTWARE-03\Documents\Visual Studio 2015\Projects\Unidad 4\Vehiculo\bin\Debug\Vehiculo.exe.config
+F:\Unidad 4\Vehiculo\bin\Debug\Vehiculo.exe.config
+F:\Unidad 4\Vehiculo\obj\Debug\Vehiculo.csprojResolveAssemblyReference.cache
+F:\Unidad 4\Vehiculo\obj\Debug\Vehiculo.Form1.resources
+F:\Unidad 4\Vehiculo\obj\Debug\Vehiculo.Properties.Resources.resources
+F:\Unidad 4\Vehiculo\obj\Debug\Vehiculo.csproj.GenerateResource.Cache
